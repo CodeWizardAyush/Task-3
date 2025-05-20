@@ -35,3 +35,6 @@ Use SQL queries to analyze key aspects of an E-commerce dataset and uncover busi
 ## BY
 **Ayush**      
 Aspiring Business and Data Analyst | 
+
+## Screenshots
+https://github.com/CodeWizardAyush/Task-3/blob/main/Screenshots/Summary%20Screenshot.png
