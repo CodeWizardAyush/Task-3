@@ -3,7 +3,7 @@
 Task 3: Elevate Labs
 
 ### Objective
-Use SQL queries to analyze key aspects of an E-commerce dataset and uncover business insights using filtering, joining, aggregation, and subqueries.
+Perform in-depth analysis of E-commerce data using SQL, utilizing joins, filters, aggregates, and subqueries to uncover valuable business trends and insights.
 
 ---
 
