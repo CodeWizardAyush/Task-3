@@ -12,6 +12,18 @@ Use SQL queries to analyze key aspects of an E-commerce dataset and uncover busi
 - SQL script file (`ecommerce_db.sql`)
 
 ---
+## Screenshots
+![image](https://github.com/CodeWizardAyush/Task-3/blob/main/Screenshots/Screenshot%202025-05-15%20190200.png)
+![image](https://github.com/CodeWizardAyush/Task-3/blob/main/Screenshots/Screenshot%202025-05-15%20190223.png)
+![image](https://github.com/CodeWizardAyush/Task-3/blob/main/Screenshots/Screenshot%202025-05-15%20195911.png)
+![image](https://github.com/CodeWizardAyush/Task-3/blob/main/Screenshots/Screenshot%202025-05-15%20195911.png)
+![image](https://github.com/CodeWizardAyush/Task-3/blob/main/Screenshots/Screenshot%202025-05-15%20203625.png)
+![image](https://github.com/CodeWizardAyush/Task-3/blob/main/Screenshots/Screenshot%202025-05-15%20203634.png)
+![image](https://github.com/CodeWizardAyush/Task-3/blob/main/Screenshots/Screenshot%202025-05-15%20204752.png)
+![image](https://github.com/CodeWizardAyush/Task-3/blob/main/Screenshots/Screenshot%202025-05-15%20204821.png)
+![image](https://github.com/CodeWizardAyush/Task-3/blob/main/Screenshots/Screenshot%202025-05-15%20205651.png)
+
+
 
 ### Dataset Used
 - **Olist E-commerce Dataset**
@@ -36,6 +48,3 @@ Use SQL queries to analyze key aspects of an E-commerce dataset and uncover busi
 **Ayush**      
 Aspiring Business and Data Analyst | 
 
-## Screenshots
-
-![image](https://github.com/CodeWizardAyush/Task-3/blob/main/Screenshots/Summary%20Screenshot.png)
